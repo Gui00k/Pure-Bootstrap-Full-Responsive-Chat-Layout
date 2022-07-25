@@ -1,0 +1,2 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Thanks+for+seeing+my+code!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Chat Layout, Responsive, Full Bootstrap you can see a full live example here - https://gui00k.github.io/Pure-Bootstrap-Full-Responsive-Chat-Layout/
